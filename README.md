@@ -37,7 +37,7 @@
   ![Atom](https://img.shields.io/badge/-Atom%20-333333?style=flat&logo=atom&logoColor=008000)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - :cloud:
-  ![Cloud](https://img.shields.io/badge/-AWS%20%20-333333?style=flat&logo=AWSe&logoColor=f0a500)
+  ![AWS](https://img.shields.io/badge/-AWS%20%20-333333?style=flat&logo=AWSe&logoColor=f0a500)
 
 <br/>
 
