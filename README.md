@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Data Scientist - Machine Learning Engineer at Verisk Analytics.
 - 🎓 &nbsp; Studied Masters in Data Science Major's in **Statistics & Machine Learing** at NJIT.
-- 🌱 &nbsp; Working on Software Developement Pet Projects and Learning more about product developement, Systems Design and Computer Vision.
+- 🌱 &nbsp; Passionate about Software Engineering and working on Pet Projects and Learning more about product developement, Systems Design and Computer Vision.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
