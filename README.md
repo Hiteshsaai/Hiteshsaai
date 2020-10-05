@@ -47,7 +47,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/hiteshsaai-mananchery/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-HiteshSaai%20Mananchery%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hiteshsaaimananchery@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hiteshsaaimananchery@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
