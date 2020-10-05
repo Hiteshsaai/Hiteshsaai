@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Data Scientist - Machine Learning Engineer at Verisk Analytics.
-- 🎓 &nbsp; Studied Masters in Data Science Major's in **Statistics & Machine Learing** at NJIT.
+- 🎓 &nbsp; Studied Masters in Data Science Major's in **Statistics & Machine Learing** from NJIT.
 - 🌱 &nbsp; Passionate about Software Engineering and working on Pet Projects and Learning more about product developement, Systems Design and Computer Vision.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
@@ -14,7 +14,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)  
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) </br>
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   
 - 🌐 &nbsp;
