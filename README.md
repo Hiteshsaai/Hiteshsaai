@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Data Scientist - Machine Learning Engineer at Verisk Analytics.
+- 💼 &nbsp; Working as a Data Scientist in Machine Learning at Verisk Analytics.
 - 🎓 &nbsp; Completed Masters from NJIT Major's in **Statistics & Machine Learing**.
 - 🌱 &nbsp; Passionate about Software Engineering and worked on several Software Pet Projects and Learning more about product developement, Systems Design and Computer Vision.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
