@@ -42,10 +42,8 @@
 
 <br/>
 
-<a href="https://github.com/Hiteshsaai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiteshsaai&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshsaai&theme=buefy&layout=compact" /> -->
-</a>
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Hiteshsaai">
