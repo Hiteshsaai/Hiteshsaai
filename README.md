@@ -47,6 +47,14 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshsaai&theme=buefy&layout=compact" /> -->
 </a>
 
+<p align="center">
+<a href="https://github.com/Hiteshsaai">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiteshsaai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiteshsaai&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
