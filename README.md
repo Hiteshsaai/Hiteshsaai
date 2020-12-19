@@ -10,7 +10,9 @@
 - 🌱 &nbsp; Passionate about Software Engineering and worked on several software pet projects and learning more about Product Developement, Systems Design and Computer Vision.
 <!-- - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles. -->
 
+<p align = 'right'>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
