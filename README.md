@@ -21,7 +21,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) 
-  GOLang<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/> </br>
+  ![Golang](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)</br>
 <!--  ![R(Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
   
 - 🌐 &nbsp;
